@@ -1,0 +1,3 @@
+-- This file intentionally left empty
+-- All data should be added manually by users and administrators
+-- No mock or sample data will be seeded into the database
